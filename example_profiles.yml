@@ -1,0 +1,13 @@
+crypto_project:
+  outputs:
+    dev:
+      account: MGEFSZM-YHB72467
+      database: CRYPTO_DB
+      password: my_snowflake_password
+      role: ACCOUNTADMIN
+      schema: RAW
+      threads: 4
+      type: snowflake
+      user: FAIJANAHAMED6
+      warehouse: COMPUTE_WH
+  target: dev
